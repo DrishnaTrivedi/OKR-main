@@ -31,7 +31,7 @@ pnpm
 
 ## 📦 Installation
 
-1. Navigate into the client directory:
+1. git clone https://github.com/DrishnaTrivedi/OKR-main ,Navigate into the client directory:
 
 ```bash
 cd client

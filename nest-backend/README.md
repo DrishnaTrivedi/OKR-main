@@ -23,7 +23,7 @@ The API provides endpoints to manage objectives and key results following a modu
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Avani-prajapati/OKR-main.git
+git clone https://github.com/DrishnaTrivedi/OKR-main
 cd OKR-main/nest-backend
 ```
 
