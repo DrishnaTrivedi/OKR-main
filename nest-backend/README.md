@@ -32,7 +32,7 @@ cd OKR-main/nest-backend
 ### 2️⃣ Install Dependencies
 
 ```bash
-npm install
+pnpm install
 ```
 
 ---
@@ -78,7 +78,7 @@ pnpx prisma migrate dev
 If migrations are not present, push schema:
 
 ```bash
-npx prisma db push
+pnpx prisma db push
 ```
 
 ---
